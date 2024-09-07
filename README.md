@@ -14,6 +14,8 @@ A responsive website dedicated to the legendary **Super Mario**, built with HTML
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/ivarssluka/super-mario-website.git
+   git clone https://github.com/ivarssluka/responsive-mario.git
    ```
 2. Open the index.html file in your browser to view the site.
+
+![resposivemario](https://github.com/user-attachments/assets/cb17edf4-4c8f-45d6-9a2a-49abce8e3eec)
